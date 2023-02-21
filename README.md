@@ -2,7 +2,7 @@
 <h1>Android工具包</h1>
 </center>
 
-- ## native-kit
+## native-kit
 ```
 基于原生提供的api开发的便利工具
 ```
